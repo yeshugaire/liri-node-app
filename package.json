@@ -5,7 +5,10 @@
   "main": "liri.js",
   "dependencies": {
     "axios": "^0.18.0",
-    "node-spotify-api": "^1.0.7"
+    "fs": "0.0.1-security",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.88.0",
+    "twitter": "^1.7.1"
   },
   "devDependencies": {},
   "scripts": {
